@@ -9,7 +9,7 @@ Created using:
 * [Webpack](https://github.com/webpack/webpack) + [Webpack Dev Server](https://github.com/webpack/webpack-dev-server)
 * Babel [(babel-loader)](https://github.com/babel/babel-loader)
 
-Made in 4 hours as part of a front-end web developer interview coding challenge.
+Made under time-constraint as part of a front-end web developer interview coding challenge.
 
 Work in progress / to be completed.
 
